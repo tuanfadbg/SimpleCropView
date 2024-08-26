@@ -1,2 +1,2 @@
 include ':simplecropview'
-include ':SampleCropViewNothingInside'
+//include ':SampleCropViewNothingInside'
