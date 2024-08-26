@@ -22,6 +22,10 @@ android {
     dexOptions {
         preDexLibraries = false
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
     namespace "com.isseiaoki.simplecropview"
 }
 
